@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Auto Close</title>
+    <script>
+      window.onload = function () {
+        window.close();
+        setTimeout(() => {
+          location.replace("https://google.com");
+        }, 100);
+      };
+    </script>
+  </head>
+  <body>
+    <p>Закрываем окно...</p>
+  </body>
+</html>
