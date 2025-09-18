@@ -1,1 +1,2 @@
-# auto-close-site
+# AutoClose
+Ughmm.. it will close i swear...
